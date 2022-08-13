@@ -1,0 +1,42 @@
+body {
+  box-sizing: border-box;
+  width: 500px;
+  padding: 25px;
+  background: aquamarine
+}
+
+.box-one {
+  width: 300px;
+  padding: 10px;
+}
+
+.box-two {
+  width: 300px;
+  padding: 20px;
+}
+
+ul {
+  list-style-type: square;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+fieldset {
+  background-color:  rgb(203, 218, 224);
+  box-shadow:  5px 5px;
+  color: rgb(58, 56, 56);
+}
+
+h1 {
+  color: rgb(20, 26, 20);
+  font-size: 30px;
+  text-shadow: 0em;
+}
+
+h2 {
+  background-color: rgb(240, 164, 65);
+  box-sizing: border-box;
+  width: 300px;
+}
